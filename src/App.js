@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Thank you sumit!
+          Thank you sumit Khinchi!
         </a>
       </header>
     </div>
